@@ -29,7 +29,7 @@ revisamos algunos comandos de:
 -  git push : subir commits desde el repositorio local
 -  git pull : traer cambios desde un repositorio remoto 
 -  git rm : remueve el archivo
-## Git + Github
+## Class IV Git + Github
 -  mv : cambiar direccion del archivo 
 -  chmod : cambiar archivo 
 -  cp : copia de archivos o directorios
@@ -49,4 +49,40 @@ revisamos algunos comandos de:
 -  git switch : cambio de branches
 -  src : source (fuente), utilizada mas para crear archivos de origen
 -  git fetch : Descarga todo el historial del marcador del repositorio
--  
+## Class V: Deber I
+- Establecimiento del proyecto y creación de clave SSH para pública y para privada
+- empuje forzado mediante comandos de terminal 
+- git pull  --force
+- fix (para soluciones no tan inmediatas)
+- hotfix  (para soluciones inmediatas)
+- Git reset hard
+- Git revert 
+- Git checkout
+- trabajo en rama
+- source
+
+## Class IV: Java
+- Tipos de compilado 
+- -Arquitectura de intepretado
+- Tipos de Lenguaje
+- Sintaxixs de Java
+- Diseño de programas (UML)
+- Libreria: conjuntos de clases
+- Clase: código en específico con una función
+- funcionamiento de paquetes y public class
+- Diagramas de flujo 
+- Trace : varaibles, operacion y salida por areas, computación secuencial
+- en formación de tabla tipo matriz, no necesariamente con todos los datos llenos 
+- Issue: No es un problema pero es más un error lógico 
+- Error: Cuando el programa no arranca 
+- Bug: Error no considerado en el programa que se quiere ejecutar
+
+## Class IIV: FlujoGramas
+
+- Algoritmia : Guiado tambíen a partir de el diagrama de Flujo
+- Vision de Error en Tracer
+- Estructura de un Diagrama de Flujo
+- Src - Bin - Programa 
+- Atajos de Teclado
+- bloques
+- 
