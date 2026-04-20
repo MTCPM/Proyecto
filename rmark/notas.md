@@ -85,4 +85,8 @@ revisamos algunos comandos de:
 - Src - Bin - Programa 
 - Atajos de Teclado
 - bloques
-- 
+
+## Deber 1:
+![alt text](img1.jpeg)
+![alt text](img2.jpeg)
+![alt text](img3.jpeg)
