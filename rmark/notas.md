@@ -90,3 +90,52 @@ revisamos algunos comandos de:
 ![alt text](img1.jpeg)
 ![alt text](img2.jpeg)
 ![alt text](img3.jpeg)
+
+## Class IIIV : POO INTRO
+- Indicaciones de código esquemático
+- programación en serie de ejemplo
+- acortación o simplificación de código
+- uso módulo 
+- Flujograma
+- simbología geométrica
+- leng: palabras reservadas
+- pseudo-código
+- código
+
+## Class IX : Propiedades vs atributos
+- trace
+- Algorítmo
+- salida de la terminal
+- desarrollo por solución manual
+- programas en plural pero usar singular
+- significado camel case
+- step by step, paso a paso, desarrollo
+- atajo F5
+- git init - inicio del proyecto 
+- creación app.java
+- proyectos (parecidos a bibliotecas)
+- métodos (pueden ser varios en un mismo proyecto)
+- App solo gestiona, como las funciones que solo se llama en el main
+- para evitar aglumeración de código
+- organización código 
+- UML
+- Directotio e gitignore
+- Controlador, coordinadora de las demás
+- App tiene el main 
+- busca el Java JDK el método
+- Arranca de App luego a Controlador para ordenar las clases 
+- Delegación de responsabilidades
+- Llamada en Java a controladores
+- a veces puede haber más de un main 
+![alt text](grafica.jpeg)
+
+- retorna valor: una función (int,string,etc...)
+- no retorna valor: un procedimiento (void)
+- public
+- private
+- protected
+- diferencias entre comentar y documentar
+- usar mas la documentación para el funcionamiento del programa no tan específicamente
+- en lugar de utilizar la documentación usar los comentaros para debatir o sino también asignar nombres que no sean abreviaturas intuitivas (casos muy específicos)
+
+
