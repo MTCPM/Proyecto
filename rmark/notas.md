@@ -138,4 +138,54 @@ revisamos algunos comandos de:
 - usar mas la documentación para el funcionamiento del programa no tan específicamente
 - en lugar de utilizar la documentación usar los comentaros para debatir o sino también asignar nombres que no sean abreviaturas intuitivas (casos muy específicos)
 
+## Class X : 
+
+- Integer
+- Tipo de dato
+- Float
+- Double
+- espacios primitivos
+- uso de conversores y escaners diferentes
+- Inserción de datos explícita e Implícitamente
+
+## Class XI : POO
+
+-  Tipos de estructuras de programación 
+- Método propiedad / atributo 
+- Definir función
+- Llamar función
+- Pasar a la función como variable
+- Estruvtura de flujo
+- Programación asycron 
+- Lectura en secuencia
+- Avance de un proceso en un flujograma
+- Ciclos repetitivos
+- Secuencias de escape: 
+- \t mover el cursor al siguiente tabulador
+- \n salto de linea (enter)
+- \r avanza lap rimer columna en el renglon actual
+- \" imprime un literal que utiliza comilla doble
+- \ ' imprime un literal que utiliza comilla sencilla
+- \\ imprime una diagonal invertida
+- Arrays
+- para comparar strings usar .equalTo
+-  crear package 
+-  uso del Try 
+-  uso del Catch
+-  uso del charAt
+-  Thread.sleep: Inyecta tiempo de procesamiento
+-  uso del Repeat 
+## Class XII :Poliretos
+- Uso del apartado Watch 
+- para avistamiento de variables
+- uso del Java debug
+- apartado de 7 u 8 simbolos utiles
+- Uso del local 
+- Rastreo de variables
+- .toUpperCase : para evitar confusiones con las mayusculas y minusculas
+- uso del .isDigit
+- 
+-
+
+
 
