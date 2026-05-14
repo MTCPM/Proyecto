@@ -184,8 +184,30 @@ revisamos algunos comandos de:
 - Rastreo de variables
 - .toUpperCase : para evitar confusiones con las mayusculas y minusculas
 - uso del .isDigit
-- 
--
+
+## Class XIII: POO + AFD
+- Recursividad
+- grafos y relaciones 
+- concatenación
+- Tipos de estados por jerarquía
+- autómatas
+- error y automatización en rutas
+
+## Class XIV: ADF
+- Autónomas 
+- estados de q 
+- opciones, modelo de autónoma para estados
+- maquinita 
+- matriz representativa de estados
+- .useDelimitar (crean delimitaciones)
+
+## Class XV: Java Code
+- Conversion de elementos
+- tipos de elementos primitivos y por referencia 
+- Uso de casteo 
+- Tipos de scanners 
+- ![alt text](image-1.png)
+
 
 
 
